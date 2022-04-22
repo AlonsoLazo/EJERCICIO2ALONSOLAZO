@@ -1,0 +1,39 @@
+.parrafo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.texto_verde {
+    color: green;
+    text-decoration-line: underline;
+}
+
+.texto_rojo {
+    color: red;
+    font-weight: bold;
+}
+
+.doble_subrayado {
+    color: black;
+    text-decoration-line: overline underline;
+}
+
+.doble_subrayado:hover {
+    color: coral;
+}
+
+.texto_grande {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.texto_azul {
+    color: blue;
+    font-weight: bold;
+}
+
+.rojo_subrayado {
+    color: red;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
